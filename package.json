@@ -1,0 +1,25 @@
+{
+  "name": "projekt-penzion",
+  "version": "1.0.0",
+  "description": "Povinný úkol pro kurz Staň se kóderkou od Czechitas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukadlo-akin/PROJEKT-Penzion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kukadlo-akin/PROJEKT-Penzion/issues"
+  },
+  "homepage": "https://github.com/kukadlo-akin/PROJEKT-Penzion#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
+}
